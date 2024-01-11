@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **menamerai/menamerai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there 👋, I'm Phan Anh (Rai) Duong</h1>
+<h3 align="center">An undergraduate Computer Science student</h3>
+<br/>
+
+- 🔭 I’m currently working on [RevolutionUC's 2024 website](https://github.com/RevolutionUC/revuc-astro-frontend)
+
+- 🌱 I’m currently learning **pytorch, transformerlens and postgresql**
+
+- 💬 Ask me about **astro, pandas and scikit-learn**
+
+- 📫 Reach me at **[duongap@mail.uc.edu](mailto:duongap@mail.uc.edu)**
