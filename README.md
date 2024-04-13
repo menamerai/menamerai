@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [RevolutionUC's 2024 website](https://github.com/RevolutionUC/revuc-astro-frontend)
 
-- 🌱 I’m currently learning **pytorch, transformerlens and postgresql**
+- 🌱 I’m currently learning **jax, transformerlens and potentially julia**
 
 - 💬 Ask me about **astro, pandas and scikit-learn**
 
