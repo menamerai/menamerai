@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">An undergraduate Computer Science student</h3>
 <br/>
 
-- 🔭 I’m currently working on [RevolutionUC's 2024 website](https://github.com/RevolutionUC/revuc-astro-frontend)
+- 🔭 I’m currently working on [delphi](https://github.com/delphi-suite/delphi), a library for training and interpreting small language models
 
 - 🌱 I’m currently learning **jax, transformerlens and potentially julia**
 
