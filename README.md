@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [delphi](https://github.com/delphi-suite/delphi), a library for training and interpreting small language models
 
-- 🌱 I’m currently learning **jax, transformerlens and potentially julia**
+- 🌱 I’m currently learning **jax, transformerlens and kubernetes**
 
 - 💬 Ask me about **astro, pandas and scikit-learn**
 
