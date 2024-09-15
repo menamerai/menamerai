@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">An undergraduate Computer Science student</h3>
 <br/>
 
-- 🔭 I’m currently working on [delphi](https://github.com/delphi-suite/delphi), a library for training and interpreting small language models
+- 🔭 I’m currently working on... nothing! I'm kind of idling right now.
 
-- 🌱 I’m currently learning **jax, transformerlens and kubernetes**
-
-- 💬 Ask me about **astro, pandas and scikit-learn**
+- 🌱 I’m currently learning **cuda**.
 
 - 📫 Reach me at **[duongap@mail.uc.edu](mailto:duongap@mail.uc.edu)**
