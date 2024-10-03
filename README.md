@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">An undergraduate Computer Science student</h3>
 <br/>
 
-- 🔭 I’m currently working on... nothing! I'm kind of idling right now.
+- 🔭 I’m currently working on... some natural language processing research! If it's good enough, I'll publish it eventually :)
 
 - 🌱 I’m currently learning **cuda**.
 
