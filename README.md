@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Phan Anh (Rai) Duong</h1>
-<h3 align="center">An undergraduate Computer Science student</h3>
+<h3 align="center">A Computer Science student</h3>
 <br/>
 
 - 🔭 I’m currently working on... some natural language processing research! If it's good enough, I'll put it down here :)
