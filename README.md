@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">An undergraduate Computer Science student</h3>
 <br/>
 
-- 🔭 I’m currently working on... some natural language processing research! If it's good enough, I'll publish it eventually :)
-
-- 🌱 I’m currently learning **cuda**.
-
+- 🔭 I’m currently working on... some natural language processing research! If it's good enough, I'll put it down here :)
+- 🌱 I’m currently learning SLURM.
+- 🔬My latest projects are:
+  - [CHEER-Ekman](https://arxiv.org/abs/2506.01047), ACL 2025 Main Conference.
+  - [Chandra Project](https://github.com/menamerai/chandra-project), my senior design.
 - 📫 Reach me at **[duongap@mail.uc.edu](mailto:duongap@mail.uc.edu)**
