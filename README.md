@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on... some natural language processing research! If it's good enough, I'll put it down here :)
 - 🌱 I’m currently learning RL.
 - 🔬My latest projects are:
-  - [CHEER-Ekman](https://arxiv.org/abs/2506.01047), ACL 2025 Main Conference.
+  - [CHEER-Ekman](https://aclanthology.org/2025.acl-short.88/), ACL 2025 Main Conference.
   - [Chandra Project](https://github.com/menamerai/chandra-project), my senior design.
 - 📫 Reach me at **[duongap@mail.uc.edu](mailto:duongap@mail.uc.edu)**
